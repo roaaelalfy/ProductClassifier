@@ -10,3 +10,10 @@ We start by loading the MobileNetV2 model pre-trained on the ImageNet dataset, e
 2. A classification layer on top of the MobileNetV2 base to tailor the model to our specific number of classes.
 3. Data augmentation and normalization to improve model performance.
 4. Detailed steps for model training, validation, and evaluation to ensure model effectiveness.
+
+## Libraries
+* numpy
+* os
+* tensorflow
+* keras
+* matplotlib
